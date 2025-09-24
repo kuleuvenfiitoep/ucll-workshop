@@ -1,0 +1,1965 @@
+<?xml version="1.0"?>
+<CRM_EXPORT>
+    <item>
+        <EVENT_ID>
+            C-00048383
+        </EVENT_ID>
+        <EVENT_TYPE>
+            ZSR4
+        </EVENT_TYPE>
+        <EVENT_TAAL>
+            N
+        </EVENT_TAAL>
+        <EVENT_OMSCH>
+            Openlesdagen Brugge - krokus 2025
+        </EVENT_OMSCH>
+        <DATUM_PUBL_VAN>
+            2025-03-03
+        </DATUM_PUBL_VAN>
+        <DATUM_PUBL_TOT>
+            2025-03-07
+        </DATUM_PUBL_TOT>
+        <PARTNERS>
+            <item>
+                <PARTNERID>
+                    0200000059
+                </PARTNERID>
+                <PARTNER>
+                    KU Leuven
+                </PARTNER>
+                <PARTNERFCT>
+                    Instelling
+                </PARTNERFCT>
+            </item>
+            <item>
+                <PARTNERID>
+                    201038682
+                </PARTNERID>
+                <PARTNER>
+                    KU Leuven Campus Brugge
+                </PARTNER>
+                <PARTNERFCT>
+                    KU Leuven campus
+                </PARTNERFCT>
+            </item>
+            <item>
+                <PARTNERID>
+                    200413766
+                </PARTNERID>
+                <PARTNER>
+                    Mevrouw Kaatje Rutten
+                </PARTNER>
+                <PARTNERFCT>
+                    Verantwoordelijke medewerker
+                </PARTNERFCT>
+            </item>
+        </PARTNERS>
+        <SESSIES>
+            <item>
+                <SESSIE_ID>
+                    C-00049005
+                </SESSIE_ID>
+                <SESSIE_OMSCH>
+                    Software engineering: college
+                </SESSIE_OMSCH>
+                <SESSIE_TYPE>
+                    ZSR5
+                </SESSIE_TYPE>
+                <CATEGORIE>
+                    ZSOPL
+                </CATEGORIE>
+                <DATUM_VAN>
+                    2025-03-03
+                </DATUM_VAN>
+                <DATUM_TOT>
+                    2025-03-03
+                </DATUM_TOT>
+                <TIJD_VAN>
+                    08:15:00
+                </TIJD_VAN>
+                <TIJD_TOT>
+                    10:15:00
+                </TIJD_TOT>
+                <SESSIEREEKS>
+                    1
+                </SESSIEREEKS>
+                <EXT_NOTITIE>
+                    De studenten leren een basiskennis van de processen waarmee software ontwikkeld wordt. Ze leren
+                    enkele in de praktijk gangbare tools om de ontwikkeling te ondersteunen en worden er zich bewust van
+                    het belang van testing. &apos;Software engineering&apos; is een vak uit de derde bachelor
+                    Industriële Wetenschappen (industrieel ingenieur), afstudeerrichting Elektronica-ICT.
+                </EXT_NOTITIE>
+                <LOKAAL>
+                    Spoorwegstraat 12, 8200 Sint-Michiels (06.01 - leslokaal)
+                </LOKAAL>
+                <MAP_URL>
+                    https://www.google.be/maps/place/KU+Leuven+Campus+Brugge/@51.1937043,3.2156545,17z/data=!3m1!4b1!4m6!3m5!1s0x47c35104b141e8cb:0xcded5a4988f83cd5!8m2!3d51.1937043!4d3.2182294!16s%2Fg%2F1yxkhpfgc?entry=ttu&amp;g_ep=EgoyMDI1MDIwNC4wIKXMDSoASAFQAw%3D%3D
+                </MAP_URL>
+                <MAX_AANTAL>
+                    0015
+                </MAX_AANTAL>
+                <PARTNERS>
+                    <item>
+                        <PARTNERID>
+                            200287151
+                        </PARTNERID>
+                        <PARTNER>
+                            Professor Jeroen Boydens
+                        </PARTNER>
+                        <PARTNERFCT>
+                            Docent
+                        </PARTNERFCT>
+                    </item>
+                    <item>
+                        <PARTNERID>
+                            0200000059
+                        </PARTNERID>
+                        <PARTNER>
+                            KU Leuven
+                        </PARTNER>
+                        <PARTNERFCT>
+                            Instelling
+                        </PARTNERFCT>
+                    </item>
+                    <item>
+                        <PARTNERID>
+                            200413766
+                        </PARTNERID>
+                        <PARTNER>
+                            Mevrouw Kaatje Rutten
+                        </PARTNER>
+                        <PARTNERFCT>
+                            Verantwoordelijke medewerker
+                        </PARTNERFCT>
+                    </item>
+                </PARTNERS>
+                <STUDIEINTERESSE>
+                    <item>
+                        <OPLEIDING_ID>
+                            51917072
+                        </OPLEIDING_ID>
+                        <OPLEIDING_OMSCH>
+                            Bachelor in de industriële wetenschappen (Brugge)
+                        </OPLEIDING_OMSCH>
+                    </item>
+                    <item>
+                        <OPLEIDING_ID>
+                            56775905
+                        </OPLEIDING_ID>
+                        <OPLEIDING_OMSCH>
+                            Schakelprogramma: Master in de industriële wetenschappen: elektronica- ICT (Brugge)
+                        </OPLEIDING_OMSCH>
+                    </item>
+                </STUDIEINTERESSE>
+                <DOORLOPEND>
+                    N
+                </DOORLOPEND>
+                <PUBLICEREN>
+                    J
+                </PUBLICEREN>
+            </item>
+            <item>
+                <SESSIE_ID>
+                    C-00049006
+                </SESSIE_ID>
+                <SESSIE_OMSCH>
+                    Elektronica: college
+                </SESSIE_OMSCH>
+                <SESSIE_TYPE>
+                    ZSR5
+                </SESSIE_TYPE>
+                <CATEGORIE>
+                    ZBOPL
+                </CATEGORIE>
+                <DATUM_VAN>
+                    2025-03-03
+                </DATUM_VAN>
+                <DATUM_TOT>
+                    2025-03-03
+                </DATUM_TOT>
+                <TIJD_VAN>
+                    10:30:00
+                </TIJD_VAN>
+                <TIJD_TOT>
+                    12:30:00
+                </TIJD_TOT>
+                <SESSIEREEKS>
+                    1
+                </SESSIEREEKS>
+                <EXT_NOTITIE>
+                    In het vak Elektronica leer je hoe elektronische componenten werken, zowel in analoge als digitale
+                    circuits. Je krijgt inzicht in het ontwerp van zowel klassieke schakelingen als digitale systemen,
+                    zoals microcontrollers en digitale communicatie, die essentieel zijn voor moderne technologieën
+                    zoals computers, smartphones en robotica. &apos;Elektronica&apos; is een vak uit de eerste bachelor
+                    Industriële Wetenschappen (industrieel ingenieur).
+                </EXT_NOTITIE>
+                <LOKAAL>
+                    Spoorwegstraat 12, 8200 Sint-Michiels (03.01 - aula)
+                </LOKAAL>
+                <MAP_URL>
+                    https://www.google.be/maps/place/KU+Leuven+Campus+Brugge/@51.1937043,3.2156545,17z/data=!3m1!4b1!4m6!3m5!1s0x47c35104b141e8cb:0xcded5a4988f83cd5!8m2!3d51.1937043!4d3.2182294!16s%2Fg%2F1yxkhpfgc?entry=ttu&amp;g_ep=EgoyMDI1MDIwNC4wIKXMDSoASAFQAw%3D%3D
+                </MAP_URL>
+                <MAX_AANTAL>
+                    0030
+                </MAX_AANTAL>
+                <PARTNERS>
+                    <item>
+                        <PARTNERID>
+                            200203668
+                        </PARTNERID>
+                        <PARTNER>
+                            Prof. dr. ir. Davy Pissoort
+                        </PARTNER>
+                        <PARTNERFCT>
+                            Docent
+                        </PARTNERFCT>
+                    </item>
+                    <item>
+                        <PARTNERID>
+                            0200000059
+                        </PARTNERID>
+                        <PARTNER>
+                            KU Leuven
+                        </PARTNER>
+                        <PARTNERFCT>
+                            Instelling
+                        </PARTNERFCT>
+                    </item>
+                    <item>
+                        <PARTNERID>
+                            200413766
+                        </PARTNERID>
+                        <PARTNER>
+                            Mevrouw Kaatje Rutten
+                        </PARTNER>
+                        <PARTNERFCT>
+                            Verantwoordelijke medewerker
+                        </PARTNERFCT>
+                    </item>
+                </PARTNERS>
+                <STUDIEINTERESSE>
+                    <item>
+                        <OPLEIDING_ID>
+                            51917072
+                        </OPLEIDING_ID>
+                        <OPLEIDING_OMSCH>
+                            Bachelor in de industriële wetenschappen (Brugge)
+                        </OPLEIDING_OMSCH>
+                    </item>
+                </STUDIEINTERESSE>
+                <DOORLOPEND>
+                    N
+                </DOORLOPEND>
+                <PUBLICEREN>
+                    J
+                </PUBLICEREN>
+            </item>
+            <item>
+                <SESSIE_ID>
+                    C-00049007
+                </SESSIE_ID>
+                <SESSIE_OMSCH>
+                    Wiskundige modellen: college
+                </SESSIE_OMSCH>
+                <SESSIE_TYPE>
+                    ZSR5
+                </SESSIE_TYPE>
+                <CATEGORIE>
+                    ZBOPL
+                </CATEGORIE>
+                <DATUM_VAN>
+                    2025-03-04
+                </DATUM_VAN>
+                <DATUM_TOT>
+                    2025-03-04
+                </DATUM_TOT>
+                <TIJD_VAN>
+                    10:30:00
+                </TIJD_VAN>
+                <TIJD_TOT>
+                    11:30:00
+                </TIJD_TOT>
+                <SESSIEREEKS>
+                    1
+                </SESSIEREEKS>
+                <EXT_NOTITIE>
+                    In het vak Wiskundige modellen worden de wiskundige tools bestudeerd en toegepast die door
+                    ingenieurs veelvuldig worden gehanteerd om een gegeven probleem mathematisch te modelleren en
+                    vervolgens op te lossen en te interpreteren. &apos;Wiskundige modellen&apos; is een vak uit de
+                    eerste bachelor Industriële Wetenschappen (industrieel ingenieur).
+                </EXT_NOTITIE>
+                <LOKAAL>
+                    Spoorwegstraat 12, 8200 Sint-Michiels (03.01 - aula)
+                </LOKAAL>
+                <MAP_URL>
+                    https://www.google.be/maps/place/KU+Leuven+Campus+Brugge/@51.1937043,3.2156545,17z/data=!3m1!4b1!4m6!3m5!1s0x47c35104b141e8cb:0xcded5a4988f83cd5!8m2!3d51.1937043!4d3.2182294!16s%2Fg%2F1yxkhpfgc?entry=ttu&amp;g_ep=EgoyMDI1MDIwNC4wIKXMDSoASAFQAw%3D%3D
+                </MAP_URL>
+                <MAX_AANTAL>
+                    0025
+                </MAX_AANTAL>
+                <PARTNERS>
+                    <item>
+                        <PARTNERID>
+                            200269139
+                        </PARTNERID>
+                        <PARTNER>
+                            De heer Rudy Briers
+                        </PARTNER>
+                        <PARTNERFCT>
+                            Docent
+                        </PARTNERFCT>
+                    </item>
+                    <item>
+                        <PARTNERID>
+                            0200000059
+                        </PARTNERID>
+                        <PARTNER>
+                            KU Leuven
+                        </PARTNER>
+                        <PARTNERFCT>
+                            Instelling
+                        </PARTNERFCT>
+                    </item>
+                    <item>
+                        <PARTNERID>
+                            200413766
+                        </PARTNERID>
+                        <PARTNER>
+                            Mevrouw Kaatje Rutten
+                        </PARTNER>
+                        <PARTNERFCT>
+                            Verantwoordelijke medewerker
+                        </PARTNERFCT>
+                    </item>
+                </PARTNERS>
+                <STUDIEINTERESSE>
+                    <item>
+                        <OPLEIDING_ID>
+                            51917072
+                        </OPLEIDING_ID>
+                        <OPLEIDING_OMSCH>
+                            Bachelor in de industriële wetenschappen (Brugge)
+                        </OPLEIDING_OMSCH>
+                    </item>
+                </STUDIEINTERESSE>
+                <DOORLOPEND>
+                    N
+                </DOORLOPEND>
+                <PUBLICEREN>
+                    J
+                </PUBLICEREN>
+            </item>
+            <item>
+                <SESSIE_ID>
+                    C-00049008
+                </SESSIE_ID>
+                <SESSIE_OMSCH>
+                    Statica: college
+                </SESSIE_OMSCH>
+                <SESSIE_TYPE>
+                    ZSR5
+                </SESSIE_TYPE>
+                <CATEGORIE>
+                    ZBOPL
+                </CATEGORIE>
+                <DATUM_VAN>
+                    2025-03-05
+                </DATUM_VAN>
+                <DATUM_TOT>
+                    2025-03-05
+                </DATUM_TOT>
+                <TIJD_VAN>
+                    10:30:00
+                </TIJD_VAN>
+                <TIJD_TOT>
+                    12:30:00
+                </TIJD_TOT>
+                <SESSIEREEKS>
+                    1
+                </SESSIEREEKS>
+                <EXT_NOTITIE>
+                    In het hoofdstuk Statica worden krachten en momenten bestudeerd. Het eerste gedeelte (samenstellen
+                    van krachten, ontbinden van krachten, vectoriële benadering van krachten, berekening van momenten,
+                    projectie van momenten en krachten op een rechte) zijn hoofdzakelijk herhalingen uit de lessen van
+                    het middelbaar onderwijs. Het hoofdstuk Statica gaat echter verder en behandelt het vrijmaken van
+                    structuren om van daaruit de krachten die optreden in bijvoorbeeld funderingen (bouwkunde) of
+                    rollagers (elektromechanica) te bepalen. &apos;Statica&apos; is een vak uit de eerste bachelor
+                    Industriële Wetenschappen (industrieel ingenieur).
+                </EXT_NOTITIE>
+                <LOKAAL>
+                    Spoorwegstraat 12, 8200 Sint-Michiels (06.50 - leslokaal)
+                </LOKAAL>
+                <MAP_URL>
+                    https://www.google.be/maps/place/KU+Leuven+Campus+Brugge/@51.1937043,3.2156545,17z/data=!3m1!4b1!4m6!3m5!1s0x47c35104b141e8cb:0xcded5a4988f83cd5!8m2!3d51.1937043!4d3.2182294!16s%2Fg%2F1yxkhpfgc?entry=ttu&amp;g_ep=EgoyMDI1MDIwNC4wIKXMDSoASAFQAw%3D%3D
+                </MAP_URL>
+                <MAX_AANTAL>
+                    0005
+                </MAX_AANTAL>
+                <PARTNERS>
+                    <item>
+                        <PARTNERID>
+                            200508064
+                        </PARTNERID>
+                        <PARTNER>
+                            De heer Geert Abel Bekaert
+                        </PARTNER>
+                        <PARTNERFCT>
+                            Docent
+                        </PARTNERFCT>
+                    </item>
+                    <item>
+                        <PARTNERID>
+                            0200000059
+                        </PARTNERID>
+                        <PARTNER>
+                            KU Leuven
+                        </PARTNER>
+                        <PARTNERFCT>
+                            Instelling
+                        </PARTNERFCT>
+                    </item>
+                    <item>
+                        <PARTNERID>
+                            200413766
+                        </PARTNERID>
+                        <PARTNER>
+                            Mevrouw Kaatje Rutten
+                        </PARTNER>
+                        <PARTNERFCT>
+                            Verantwoordelijke medewerker
+                        </PARTNERFCT>
+                    </item>
+                </PARTNERS>
+                <STUDIEINTERESSE>
+                    <item>
+                        <OPLEIDING_ID>
+                            51917072
+                        </OPLEIDING_ID>
+                        <OPLEIDING_OMSCH>
+                            Bachelor in de industriële wetenschappen (Brugge)
+                        </OPLEIDING_OMSCH>
+                    </item>
+                </STUDIEINTERESSE>
+                <DOORLOPEND>
+                    N
+                </DOORLOPEND>
+                <PUBLICEREN>
+                    J
+                </PUBLICEREN>
+            </item>
+            <item>
+                <SESSIE_ID>
+                    C-00049009
+                </SESSIE_ID>
+                <SESSIE_OMSCH>
+                    Systeemtheorie en regeltechniek: college
+                </SESSIE_OMSCH>
+                <SESSIE_TYPE>
+                    ZSR5
+                </SESSIE_TYPE>
+                <CATEGORIE>
+                    ZSOPL
+                </CATEGORIE>
+                <DATUM_VAN>
+                    2025-03-05
+                </DATUM_VAN>
+                <DATUM_TOT>
+                    2025-03-05
+                </DATUM_TOT>
+                <TIJD_VAN>
+                    13:30:00
+                </TIJD_VAN>
+                <TIJD_TOT>
+                    15:30:00
+                </TIJD_TOT>
+                <SESSIEREEKS>
+                    1
+                </SESSIEREEKS>
+                <EXT_NOTITIE>
+                    Het gedrag van tal van systemen en apparaten kan wiskundig gemodelleerd worden met het doel hun
+                    gedrag beter te begrijpen, te voorspellen en vooral te bepalen. Wiskundige tools helpen om dit
+                    systematisch aan te pakken, maar regeltechniek is feitelijk een heel oud vakgebied. &apos;Systeemtheorie
+                    en regeltechniek&apos; is een vak uit de tweede bachelor Industriële Wetenschappen (industrieel
+                    ingenieur), afstudeerrichting Elektromechanica en Elektronica-ICT.
+                </EXT_NOTITIE>
+                <LOKAAL>
+                    Spoorwegstraat 12, 8200 Sint-Michiels (06.01 - leslokaal)
+                </LOKAAL>
+                <MAP_URL>
+                    https://www.google.be/maps/place/KU+Leuven+Campus+Brugge/@51.1937043,3.2156545,17z/data=!3m1!4b1!4m6!3m5!1s0x47c35104b141e8cb:0xcded5a4988f83cd5!8m2!3d51.1937043!4d3.2182294!16s%2Fg%2F1yxkhpfgc?entry=ttu&amp;g_ep=EgoyMDI1MDIwNC4wIKXMDSoASAFQAw%3D%3D
+                </MAP_URL>
+                <MAX_AANTAL>
+                    0010
+                </MAX_AANTAL>
+                <PARTNERS>
+                    <item>
+                        <PARTNERID>
+                            200053290
+                        </PARTNERID>
+                        <PARTNER>
+                            Prof. dr. ir. Joan Peuteman
+                        </PARTNER>
+                        <PARTNERFCT>
+                            Docent
+                        </PARTNERFCT>
+                    </item>
+                    <item>
+                        <PARTNERID>
+                            0200000059
+                        </PARTNERID>
+                        <PARTNER>
+                            KU Leuven
+                        </PARTNER>
+                        <PARTNERFCT>
+                            Instelling
+                        </PARTNERFCT>
+                    </item>
+                    <item>
+                        <PARTNERID>
+                            200413766
+                        </PARTNERID>
+                        <PARTNER>
+                            Mevrouw Kaatje Rutten
+                        </PARTNER>
+                        <PARTNERFCT>
+                            Verantwoordelijke medewerker
+                        </PARTNERFCT>
+                    </item>
+                </PARTNERS>
+                <STUDIEINTERESSE>
+                    <item>
+                        <OPLEIDING_ID>
+                            51917072
+                        </OPLEIDING_ID>
+                        <OPLEIDING_OMSCH>
+                            Bachelor in de industriële wetenschappen (Brugge)
+                        </OPLEIDING_OMSCH>
+                    </item>
+                    <item>
+                        <OPLEIDING_ID>
+                            56775904
+                        </OPLEIDING_ID>
+                        <OPLEIDING_OMSCH>
+                            Schakelprogramma: Master in de industriële wetenschappen: elektromechanica (Brugge)
+                        </OPLEIDING_OMSCH>
+                    </item>
+                    <item>
+                        <OPLEIDING_ID>
+                            56775905
+                        </OPLEIDING_ID>
+                        <OPLEIDING_OMSCH>
+                            Schakelprogramma: Master in de industriële wetenschappen: elektronica- ICT (Brugge)
+                        </OPLEIDING_OMSCH>
+                    </item>
+                </STUDIEINTERESSE>
+                <DOORLOPEND>
+                    N
+                </DOORLOPEND>
+                <PUBLICEREN>
+                    J
+                </PUBLICEREN>
+            </item>
+            <item>
+                <SESSIE_ID>
+                    C-00049010
+                </SESSIE_ID>
+                <SESSIE_OMSCH>
+                    Sensoren: college
+                </SESSIE_OMSCH>
+                <SESSIE_TYPE>
+                    ZSR5
+                </SESSIE_TYPE>
+                <CATEGORIE>
+                    ZBOPL
+                </CATEGORIE>
+                <DATUM_VAN>
+                    2025-03-06
+                </DATUM_VAN>
+                <DATUM_TOT>
+                    2025-03-06
+                </DATUM_TOT>
+                <TIJD_VAN>
+                    08:15:00
+                </TIJD_VAN>
+                <TIJD_TOT>
+                    10:15:00
+                </TIJD_TOT>
+                <SESSIEREEKS>
+                    1
+                </SESSIEREEKS>
+                <EXT_NOTITIE>
+                    In dit vak bespreken we meetsystemen en de werking van sensoren en waarvoor we sensoren kunnen
+                    gebruiken. In meetsystemen bekijken we welke effecten sensoreigenschappen kunnen hebben op het
+                    uiteindelijke meetresultaat en hoe we dit kunnen compenseren. &apos;Sensoren&apos; is een vak uit de
+                    derde bachelor, afstudeerrichting Elektronica-ICT, optie Smart Electronics &amp; Software.
+                </EXT_NOTITIE>
+                <LOKAAL>
+                    Spoorwegstraat 12, 8200 Sint-Michiels (06.01 - leslokaal)
+                </LOKAAL>
+                <MAP_URL>
+                    https://www.google.be/maps/place/KU+Leuven+Campus+Brugge/@51.1937043,3.2156545,17z/data=!3m1!4b1!4m6!3m5!1s0x47c35104b141e8cb:0xcded5a4988f83cd5!8m2!3d51.1937043!4d3.2182294!16s%2Fg%2F1yxkhpfgc?entry=ttu&amp;g_ep=EgoyMDI1MDIwNC4wIKXMDSoASAFQAw%3D%3D
+                </MAP_URL>
+                <MAX_AANTAL>
+                    0005
+                </MAX_AANTAL>
+                <PARTNERS>
+                    <item>
+                        <PARTNERID>
+                            200508105
+                        </PARTNERID>
+                        <PARTNER>
+                            Prof. dr. Hans Hallez
+                        </PARTNER>
+                        <PARTNERFCT>
+                            Docent
+                        </PARTNERFCT>
+                    </item>
+                    <item>
+                        <PARTNERID>
+                            0200000059
+                        </PARTNERID>
+                        <PARTNER>
+                            KU Leuven
+                        </PARTNER>
+                        <PARTNERFCT>
+                            Instelling
+                        </PARTNERFCT>
+                    </item>
+                    <item>
+                        <PARTNERID>
+                            200413766
+                        </PARTNERID>
+                        <PARTNER>
+                            Mevrouw Kaatje Rutten
+                        </PARTNER>
+                        <PARTNERFCT>
+                            Verantwoordelijke medewerker
+                        </PARTNERFCT>
+                    </item>
+                </PARTNERS>
+                <STUDIEINTERESSE>
+                    <item>
+                        <OPLEIDING_ID>
+                            51917072
+                        </OPLEIDING_ID>
+                        <OPLEIDING_OMSCH>
+                            Bachelor in de industriële wetenschappen (Brugge)
+                        </OPLEIDING_OMSCH>
+                    </item>
+                </STUDIEINTERESSE>
+                <DOORLOPEND>
+                    N
+                </DOORLOPEND>
+                <PUBLICEREN>
+                    J
+                </PUBLICEREN>
+            </item>
+            <item>
+                <SESSIE_ID>
+                    C-00049011
+                </SESSIE_ID>
+                <SESSIE_OMSCH>
+                    Warmtetechnieken: college
+                </SESSIE_OMSCH>
+                <SESSIE_TYPE>
+                    ZSR5
+                </SESSIE_TYPE>
+                <CATEGORIE>
+                    ZSOPL
+                </CATEGORIE>
+                <DATUM_VAN>
+                    2025-03-06
+                </DATUM_VAN>
+                <DATUM_TOT>
+                    2025-03-06
+                </DATUM_TOT>
+                <TIJD_VAN>
+                    10:30:00
+                </TIJD_VAN>
+                <TIJD_TOT>
+                    11:30:00
+                </TIJD_TOT>
+                <SESSIEREEKS>
+                    1
+                </SESSIEREEKS>
+                <EXT_NOTITIE>
+                    Warmtetechnieken is een &apos;echt ingenieursvak&apos;. Fysische en wetenschappelijke inzichten
+                    worden gecombineerd met wiskundige berekeningen om verschillende thermische problemen aan te pakken:
+                    hoeveel warmte gaat er verloren uit een trein wanneer deze stilstaat of aan hoge snelheid rijdt?
+                    Hoelang duurt het vooraleer gegoten staal afkoelt van 700°C naar omgevingstemperatuur? Hoe
+                    dimensioneer ik industriële koelinstallaties van diepvriesgroenten? Hoeveel stralingswarmte ontvangt
+                    een satelliet in de ruimte? &apos;Warmtetechnieken&apos; is een vak uit de tweede bachelor
+                    Industriële Wetenschappen, afstudeerrichting Elektromechanica.
+                </EXT_NOTITIE>
+                <LOKAAL>
+                    Spoorwegstraat 12, 8200 Sint-Michiels (06.01 - leslokaal)
+                </LOKAAL>
+                <MAP_URL>
+                    https://www.google.be/maps/place/KU+Leuven+Campus+Brugge/@51.1937043,3.2156545,17z/data=!3m1!4b1!4m6!3m5!1s0x47c35104b141e8cb:0xcded5a4988f83cd5!8m2!3d51.1937043!4d3.2182294!16s%2Fg%2F1yxkhpfgc?entry=ttu&amp;g_ep=EgoyMDI1MDIwNC4wIKXMDSoASAFQAw%3D%3D
+                </MAP_URL>
+                <MAX_AANTAL>
+                    0004
+                </MAX_AANTAL>
+                <PARTNERS>
+                    <item>
+                        <PARTNERID>
+                            200242226
+                        </PARTNERID>
+                        <PARTNER>
+                            De heer Bart Buffel
+                        </PARTNER>
+                        <PARTNERFCT>
+                            Docent
+                        </PARTNERFCT>
+                    </item>
+                    <item>
+                        <PARTNERID>
+                            0200000059
+                        </PARTNERID>
+                        <PARTNER>
+                            KU Leuven
+                        </PARTNER>
+                        <PARTNERFCT>
+                            Instelling
+                        </PARTNERFCT>
+                    </item>
+                    <item>
+                        <PARTNERID>
+                            200413766
+                        </PARTNERID>
+                        <PARTNER>
+                            Mevrouw Kaatje Rutten
+                        </PARTNER>
+                        <PARTNERFCT>
+                            Verantwoordelijke medewerker
+                        </PARTNERFCT>
+                    </item>
+                </PARTNERS>
+                <STUDIEINTERESSE>
+                    <item>
+                        <OPLEIDING_ID>
+                            51917072
+                        </OPLEIDING_ID>
+                        <OPLEIDING_OMSCH>
+                            Bachelor in de industriële wetenschappen (Brugge)
+                        </OPLEIDING_OMSCH>
+                    </item>
+                    <item>
+                        <OPLEIDING_ID>
+                            56775904
+                        </OPLEIDING_ID>
+                        <OPLEIDING_OMSCH>
+                            Schakelprogramma: Master in de industriële wetenschappen: elektromechanica (Brugge)
+                        </OPLEIDING_OMSCH>
+                    </item>
+                </STUDIEINTERESSE>
+                <DOORLOPEND>
+                    N
+                </DOORLOPEND>
+                <PUBLICEREN>
+                    J
+                </PUBLICEREN>
+            </item>
+            <item>
+                <SESSIE_ID>
+                    C-00049012
+                </SESSIE_ID>
+                <SESSIE_OMSCH>
+                    Programmeertechnieken: college
+                </SESSIE_OMSCH>
+                <SESSIE_TYPE>
+                    ZSR5
+                </SESSIE_TYPE>
+                <CATEGORIE>
+                    ZSOPL
+                </CATEGORIE>
+                <DATUM_VAN>
+                    2025-03-06
+                </DATUM_VAN>
+                <DATUM_TOT>
+                    2025-03-06
+                </DATUM_TOT>
+                <TIJD_VAN>
+                    10:30:00
+                </TIJD_VAN>
+                <TIJD_TOT>
+                    12:30:00
+                </TIJD_TOT>
+                <SESSIEREEKS>
+                    1
+                </SESSIEREEKS>
+                <EXT_NOTITIE>
+                    De studenten leren de belangrijkste concepten van (objectgeoriënteerd) programmeren en het
+                    bijhorende jargon kennen en gebruiken. Nadat ze in de inleidende cursussen de basis geleerd hebben
+                    (algoritmes, iteratie en selectie, functies en parameters, klassen en objecten, inheritance,
+                    eenvoudige datastructuren, API leren gebruiken), verwerven ze nu een dieper begrip. &apos;Programmeertechnieken&apos;
+                    is een vak uit de tweede bachelor Industriële Wetenschappen (industrieel ingenieur),
+                    afstudeerrichting Elektronica-ICT.
+                </EXT_NOTITIE>
+                <LOKAAL>
+                    Spoorwegstraat 12, 8200 Sint-Michiels (06.10 - leslokaal)
+                </LOKAAL>
+                <MAP_URL>
+                    https://www.google.be/maps/place/KU+Leuven+Campus+Brugge/@51.1937043,3.2156545,17z/data=!3m1!4b1!4m6!3m5!1s0x47c35104b141e8cb:0xcded5a4988f83cd5!8m2!3d51.1937043!4d3.2182294!16s%2Fg%2F1yxkhpfgc?entry=ttu&amp;g_ep=EgoyMDI1MDIwNC4wIKXMDSoASAFQAw%3D%3D
+                </MAP_URL>
+                <MAX_AANTAL>
+                    0010
+                </MAX_AANTAL>
+                <PARTNERS>
+                    <item>
+                        <PARTNERID>
+                            200287151
+                        </PARTNERID>
+                        <PARTNER>
+                            Professor Jeroen Boydens
+                        </PARTNER>
+                        <PARTNERFCT>
+                            Docent
+                        </PARTNERFCT>
+                    </item>
+                    <item>
+                        <PARTNERID>
+                            0200000059
+                        </PARTNERID>
+                        <PARTNER>
+                            KU Leuven
+                        </PARTNER>
+                        <PARTNERFCT>
+                            Instelling
+                        </PARTNERFCT>
+                    </item>
+                    <item>
+                        <PARTNERID>
+                            200413766
+                        </PARTNERID>
+                        <PARTNER>
+                            Mevrouw Kaatje Rutten
+                        </PARTNER>
+                        <PARTNERFCT>
+                            Verantwoordelijke medewerker
+                        </PARTNERFCT>
+                    </item>
+                </PARTNERS>
+                <STUDIEINTERESSE>
+                    <item>
+                        <OPLEIDING_ID>
+                            51917072
+                        </OPLEIDING_ID>
+                        <OPLEIDING_OMSCH>
+                            Bachelor in de industriële wetenschappen (Brugge)
+                        </OPLEIDING_OMSCH>
+                    </item>
+                    <item>
+                        <OPLEIDING_ID>
+                            56775905
+                        </OPLEIDING_ID>
+                        <OPLEIDING_OMSCH>
+                            Schakelprogramma: Master in de industriële wetenschappen: elektronica- ICT (Brugge)
+                        </OPLEIDING_OMSCH>
+                    </item>
+                </STUDIEINTERESSE>
+                <DOORLOPEND>
+                    N
+                </DOORLOPEND>
+                <PUBLICEREN>
+                    J
+                </PUBLICEREN>
+            </item>
+            <item>
+                <SESSIE_ID>
+                    C-00049013
+                </SESSIE_ID>
+                <SESSIE_OMSCH>
+                    Statica: college
+                </SESSIE_OMSCH>
+                <SESSIE_TYPE>
+                    ZSR5
+                </SESSIE_TYPE>
+                <CATEGORIE>
+                    ZBOPL
+                </CATEGORIE>
+                <DATUM_VAN>
+                    2025-03-07
+                </DATUM_VAN>
+                <DATUM_TOT>
+                    2025-03-07
+                </DATUM_TOT>
+                <TIJD_VAN>
+                    08:15:00
+                </TIJD_VAN>
+                <TIJD_TOT>
+                    10:15:00
+                </TIJD_TOT>
+                <SESSIEREEKS>
+                    1
+                </SESSIEREEKS>
+                <EXT_NOTITIE>
+                    In het hoofdstuk Statica worden krachten en momenten bestudeerd. Het eerste gedeelte (samenstellen
+                    van krachten, ontbinden van krachten, vectoriële benadering van krachten, berekening van momenten,
+                    projectie van momenten en krachten op een rechte) zijn hoofdzakelijk herhalingen uit de lessen van
+                    het middelbaar onderwijs. Het hoofdstuk Statica gaat echter verder en behandelt het vrijmaken van
+                    structuren om van daaruit de krachten die optreden in bijvoorbeeld funderingen (bouwkunde) of
+                    rollagers (elektromechanica) te bepalen. &apos;Statica&apos; is een vak uit de eerste bachelor
+                    Industriële Wetenschappen (industrieel ingenieur).
+                </EXT_NOTITIE>
+                <LOKAAL>
+                    Spoorwegstraat 12, 8200 Sint-Michiels (03.01 - aula)
+                </LOKAAL>
+                <MAP_URL>
+                    https://www.google.be/maps/place/KU+Leuven+Campus+Brugge/@51.1937043,3.2156545,17z/data=!3m1!4b1!4m6!3m5!1s0x47c35104b141e8cb:0xcded5a4988f83cd5!8m2!3d51.1937043!4d3.2182294!16s%2Fg%2F1yxkhpfgc?entry=ttu&amp;g_ep=EgoyMDI1MDIwNC4wIKXMDSoASAFQAw%3D%3D
+                </MAP_URL>
+                <MAX_AANTAL>
+                    0030
+                </MAX_AANTAL>
+                <PARTNERS>
+                    <item>
+                        <PARTNERID>
+                            200508064
+                        </PARTNERID>
+                        <PARTNER>
+                            De heer Geert Abel Bekaert
+                        </PARTNER>
+                        <PARTNERFCT>
+                            Docent
+                        </PARTNERFCT>
+                    </item>
+                    <item>
+                        <PARTNERID>
+                            0200000059
+                        </PARTNERID>
+                        <PARTNER>
+                            KU Leuven
+                        </PARTNER>
+                        <PARTNERFCT>
+                            Instelling
+                        </PARTNERFCT>
+                    </item>
+                    <item>
+                        <PARTNERID>
+                            200413766
+                        </PARTNERID>
+                        <PARTNER>
+                            Mevrouw Kaatje Rutten
+                        </PARTNER>
+                        <PARTNERFCT>
+                            Verantwoordelijke medewerker
+                        </PARTNERFCT>
+                    </item>
+                </PARTNERS>
+                <STUDIEINTERESSE>
+                    <item>
+                        <OPLEIDING_ID>
+                            51917072
+                        </OPLEIDING_ID>
+                        <OPLEIDING_OMSCH>
+                            Bachelor in de industriële wetenschappen (Brugge)
+                        </OPLEIDING_OMSCH>
+                    </item>
+                </STUDIEINTERESSE>
+                <DOORLOPEND>
+                    N
+                </DOORLOPEND>
+                <PUBLICEREN>
+                    J
+                </PUBLICEREN>
+            </item>
+            <item>
+                <SESSIE_ID>
+                    C-00049014
+                </SESSIE_ID>
+                <SESSIE_OMSCH>
+                    Trillingen en golven: college
+                </SESSIE_OMSCH>
+                <SESSIE_TYPE>
+                    ZSR5
+                </SESSIE_TYPE>
+                <CATEGORIE>
+                    ZSOPL
+                </CATEGORIE>
+                <DATUM_VAN>
+                    2025-03-07
+                </DATUM_VAN>
+                <DATUM_TOT>
+                    2025-03-07
+                </DATUM_TOT>
+                <TIJD_VAN>
+                    10:30:00
+                </TIJD_VAN>
+                <TIJD_TOT>
+                    12:30:00
+                </TIJD_TOT>
+                <SESSIEREEKS>
+                    1
+                </SESSIEREEKS>
+                <EXT_NOTITIE>
+                    In deze les bestuderen we typische fysische concepten binnen trillingen en golven en hoe we
+                    wiskundige modellen kunnen opstellen om fenomenen binnen trillingen en golven te voorspellen. Denk
+                    maar aan de eenvoudig harmonische beweging, de gedempte harmonische beweging en de golfvergelijking.
+                    &apos;Trillingen en golven&apos; is een vak uit de eerste bachelor Industriële Wetenschappen
+                    (industrieel ingenieur).
+                </EXT_NOTITIE>
+                <LOKAAL>
+                    Spoorwegstraat 12, 8200 Sint-Michiels (03.01 - aula)
+                </LOKAAL>
+                <MAP_URL>
+                    https://www.google.be/maps/place/KU+Leuven+Campus+Brugge/@51.1937043,3.2156545,17z/data=!3m1!4b1!4m6!3m5!1s0x47c35104b141e8cb:0xcded5a4988f83cd5!8m2!3d51.1937043!4d3.2182294!16s%2Fg%2F1yxkhpfgc?entry=ttu&amp;g_ep=EgoyMDI1MDIwNC4wIKXMDSoASAFQAw%3D%3D
+                </MAP_URL>
+                <MAX_AANTAL>
+                    0010
+                </MAX_AANTAL>
+                <PARTNERS>
+                    <item>
+                        <PARTNERID>
+                            200508105
+                        </PARTNERID>
+                        <PARTNER>
+                            Prof. dr. Hans Hallez
+                        </PARTNER>
+                        <PARTNERFCT>
+                            Docent
+                        </PARTNERFCT>
+                    </item>
+                    <item>
+                        <PARTNERID>
+                            0200000059
+                        </PARTNERID>
+                        <PARTNER>
+                            KU Leuven
+                        </PARTNER>
+                        <PARTNERFCT>
+                            Instelling
+                        </PARTNERFCT>
+                    </item>
+                    <item>
+                        <PARTNERID>
+                            200413766
+                        </PARTNERID>
+                        <PARTNER>
+                            Mevrouw Kaatje Rutten
+                        </PARTNER>
+                        <PARTNERFCT>
+                            Verantwoordelijke medewerker
+                        </PARTNERFCT>
+                    </item>
+                </PARTNERS>
+                <STUDIEINTERESSE>
+                    <item>
+                        <OPLEIDING_ID>
+                            51917072
+                        </OPLEIDING_ID>
+                        <OPLEIDING_OMSCH>
+                            Bachelor in de industriële wetenschappen (Brugge)
+                        </OPLEIDING_OMSCH>
+                    </item>
+                    <item>
+                        <OPLEIDING_ID>
+                            56771435
+                        </OPLEIDING_ID>
+                        <OPLEIDING_OMSCH>
+                            Schakelprogramma: Master in de industriële wetenschappen: bouwkunde (Brugge)
+                        </OPLEIDING_OMSCH>
+                    </item>
+                    <item>
+                        <OPLEIDING_ID>
+                            56775904
+                        </OPLEIDING_ID>
+                        <OPLEIDING_OMSCH>
+                            Schakelprogramma: Master in de industriële wetenschappen: elektromechanica (Brugge)
+                        </OPLEIDING_OMSCH>
+                    </item>
+                    <item>
+                        <OPLEIDING_ID>
+                            56775905
+                        </OPLEIDING_ID>
+                        <OPLEIDING_OMSCH>
+                            Schakelprogramma: Master in de industriële wetenschappen: elektronica- ICT (Brugge)
+                        </OPLEIDING_OMSCH>
+                    </item>
+                </STUDIEINTERESSE>
+                <DOORLOPEND>
+                    N
+                </DOORLOPEND>
+                <PUBLICEREN>
+                    J
+                </PUBLICEREN>
+            </item>
+            <item>
+                <SESSIE_ID>
+                    C-00049015
+                </SESSIE_ID>
+                <SESSIE_OMSCH>
+                    Ruimtelijk inzicht en CAD
+                </SESSIE_OMSCH>
+                <SESSIE_TYPE>
+                    ZSR5
+                </SESSIE_TYPE>
+                <CATEGORIE>
+                    ZBOPL
+                </CATEGORIE>
+                <DATUM_VAN>
+                    2025-03-07
+                </DATUM_VAN>
+                <DATUM_TOT>
+                    2025-03-07
+                </DATUM_TOT>
+                <TIJD_VAN>
+                    13:30:00
+                </TIJD_VAN>
+                <TIJD_TOT>
+                    15:30:00
+                </TIJD_TOT>
+                <SESSIEREEKS>
+                    1
+                </SESSIEREEKS>
+                <EXT_NOTITIE>
+                    In deze labosessie wordt een bouwkundige uitleg gegeven over het tekenen van een grondplan voor een
+                    eenvoudige woning. Nadien tekenen de studenten het grond plan in AutoCad op schaal uit. Om deel te
+                    nemen aan deze open les is achtergrondkennis in het tekenprogramma AutoCad vereist. &apos;Ruimtelijk
+                    inzicht en CAD&apos; is een vak uit de eerste bachelor Industriële Wetenschappen (industrieel
+                    ingenieur).
+                </EXT_NOTITIE>
+                <LOKAAL>
+                    Spoorwegstraat 12, 8200 Sint-Michiels (06.50 - leslokaal)
+                </LOKAAL>
+                <MAP_URL>
+                    https://www.google.be/maps/place/KU+Leuven+Campus+Brugge/@51.1937043,3.2156545,17z/data=!3m1!4b1!4m6!3m5!1s0x47c35104b141e8cb:0xcded5a4988f83cd5!8m2!3d51.1937043!4d3.2182294!16s%2Fg%2F1yxkhpfgc?entry=ttu&amp;g_ep=EgoyMDI1MDIwNC4wIKXMDSoASAFQAw%3D%3D
+                </MAP_URL>
+                <MAX_AANTAL>
+                    0010
+                </MAX_AANTAL>
+                <PARTNERS>
+                    <item>
+                        <PARTNERID>
+                            200592642
+                        </PARTNERID>
+                        <PARTNER>
+                            De heer Jelle Benoot
+                        </PARTNER>
+                        <PARTNERFCT>
+                            Docent
+                        </PARTNERFCT>
+                    </item>
+                    <item>
+                        <PARTNERID>
+                            200597878
+                        </PARTNERID>
+                        <PARTNER>
+                            Mevrouw Lies Van der Straeten
+                        </PARTNER>
+                        <PARTNERFCT>
+                            Docent
+                        </PARTNERFCT>
+                    </item>
+                    <item>
+                        <PARTNERID>
+                            0200000059
+                        </PARTNERID>
+                        <PARTNER>
+                            KU Leuven
+                        </PARTNER>
+                        <PARTNERFCT>
+                            Instelling
+                        </PARTNERFCT>
+                    </item>
+                    <item>
+                        <PARTNERID>
+                            200413766
+                        </PARTNERID>
+                        <PARTNER>
+                            Mevrouw Kaatje Rutten
+                        </PARTNER>
+                        <PARTNERFCT>
+                            Verantwoordelijke medewerker
+                        </PARTNERFCT>
+                    </item>
+                </PARTNERS>
+                <STUDIEINTERESSE>
+                    <item>
+                        <OPLEIDING_ID>
+                            51917072
+                        </OPLEIDING_ID>
+                        <OPLEIDING_OMSCH>
+                            Bachelor in de industriële wetenschappen (Brugge)
+                        </OPLEIDING_OMSCH>
+                    </item>
+                </STUDIEINTERESSE>
+                <DOORLOPEND>
+                    N
+                </DOORLOPEND>
+                <PUBLICEREN>
+                    J
+                </PUBLICEREN>
+            </item>
+            <item>
+                <SESSIE_ID>
+                    C-00049016
+                </SESSIE_ID>
+                <SESSIE_OMSCH>
+                    Ruimtelijk inzicht en CAD
+                </SESSIE_OMSCH>
+                <SESSIE_TYPE>
+                    ZSR5
+                </SESSIE_TYPE>
+                <CATEGORIE>
+                    ZBOPL
+                </CATEGORIE>
+                <DATUM_VAN>
+                    2025-03-07
+                </DATUM_VAN>
+                <DATUM_TOT>
+                    2025-03-07
+                </DATUM_TOT>
+                <TIJD_VAN>
+                    15:45:00
+                </TIJD_VAN>
+                <TIJD_TOT>
+                    16:45:00
+                </TIJD_TOT>
+                <SESSIEREEKS>
+                    1
+                </SESSIEREEKS>
+                <EXT_NOTITIE>
+                    In deze labosessie wordt een bouwkundige uitleg gegeven over het tekenen van een grondplan voor een
+                    eenvoudige woning. Nadien tekenen de studenten het grond plan in AutoCad op schaal uit. Om deel te
+                    nemen aan deze open les is achtergrondkennis in het tekenprogramma AutoCad vereist. &apos;Ruimtelijk
+                    inzicht en CAD&apos; is een vak uit de eerste bachelor Industriële Wetenschappen (industrieel
+                    ingenieur).
+                </EXT_NOTITIE>
+                <LOKAAL>
+                    Spoorwegstraat 12, 8200 Sint-Michiels (06.50 - leslokaal)
+                </LOKAAL>
+                <MAP_URL>
+                    https://www.google.be/maps/place/KU+Leuven+Campus+Brugge/@51.1937043,3.2156545,17z/data=!3m1!4b1!4m6!3m5!1s0x47c35104b141e8cb:0xcded5a4988f83cd5!8m2!3d51.1937043!4d3.2182294!16s%2Fg%2F1yxkhpfgc?entry=ttu&amp;g_ep=EgoyMDI1MDIwNC4wIKXMDSoASAFQAw%3D%3D
+                </MAP_URL>
+                <MAX_AANTAL>
+                    0010
+                </MAX_AANTAL>
+                <PARTNERS>
+                    <item>
+                        <PARTNERID>
+                            200592642
+                        </PARTNERID>
+                        <PARTNER>
+                            De heer Jelle Benoot
+                        </PARTNER>
+                        <PARTNERFCT>
+                            Docent
+                        </PARTNERFCT>
+                    </item>
+                    <item>
+                        <PARTNERID>
+                            200597878
+                        </PARTNERID>
+                        <PARTNER>
+                            Mevrouw Lies Van der Straeten
+                        </PARTNER>
+                        <PARTNERFCT>
+                            Docent
+                        </PARTNERFCT>
+                    </item>
+                    <item>
+                        <PARTNERID>
+                            0200000059
+                        </PARTNERID>
+                        <PARTNER>
+                            KU Leuven
+                        </PARTNER>
+                        <PARTNERFCT>
+                            Instelling
+                        </PARTNERFCT>
+                    </item>
+                    <item>
+                        <PARTNERID>
+                            200413766
+                        </PARTNERID>
+                        <PARTNER>
+                            Mevrouw Kaatje Rutten
+                        </PARTNER>
+                        <PARTNERFCT>
+                            Verantwoordelijke medewerker
+                        </PARTNERFCT>
+                    </item>
+                </PARTNERS>
+                <STUDIEINTERESSE>
+                    <item>
+                        <OPLEIDING_ID>
+                            51917072
+                        </OPLEIDING_ID>
+                        <OPLEIDING_OMSCH>
+                            Bachelor in de industriële wetenschappen (Brugge)
+                        </OPLEIDING_OMSCH>
+                    </item>
+                </STUDIEINTERESSE>
+                <DOORLOPEND>
+                    N
+                </DOORLOPEND>
+                <PUBLICEREN>
+                    J
+                </PUBLICEREN>
+            </item>
+            <item>
+                <SESSIE_ID>
+                    C-00049017
+                </SESSIE_ID>
+                <SESSIE_OMSCH>
+                    Biomechanica, deel 2: praktijk
+                </SESSIE_OMSCH>
+                <SESSIE_TYPE>
+                    ZSR5
+                </SESSIE_TYPE>
+                <CATEGORIE>
+                    ZBOPL
+                </CATEGORIE>
+                <DATUM_VAN>
+                    2025-03-03
+                </DATUM_VAN>
+                <DATUM_TOT>
+                    2025-03-03
+                </DATUM_TOT>
+                <TIJD_VAN>
+                    08:15:00
+                </TIJD_VAN>
+                <TIJD_TOT>
+                    10:15:00
+                </TIJD_TOT>
+                <SESSIEREEKS>
+                    1
+                </SESSIEREEKS>
+                <EXT_NOTITIE>
+                    In dit vak wordt besproken hoe we letsels van de heup, knie en voet revalideren. Studenten leren om
+                    vanuit een gedetailleerd bewegingsonderzoek een optimaal revalidatieschema op te stellen voor de
+                    specifieke letsels aan het onderste lidmaat. &apos;Biomechanica, deel 2: praktijk&apos; is een vak
+                    uit de tweede bachelor Revalidatiewetenschappen en Kinesitherapie.
+                </EXT_NOTITIE>
+                <LOKAAL>
+                    Spoorwegstraat 12, 8200 Sint-Michiels (04.70 - praktijklokaal kiné)
+                </LOKAAL>
+                <MAP_URL>
+                    https://www.google.be/maps/place/KU+Leuven+Campus+Brugge/@51.1937043,3.2156545,17z/data=!3m1!4b1!4m6!3m5!1s0x47c35104b141e8cb:0xcded5a4988f83cd5!8m2!3d51.1937043!4d3.2182294!16s%2Fg%2F1yxkhpfgc?entry=ttu&amp;g_ep=EgoyMDI1MDIwNC4wIKXMDSoASAFQAw%3D%3D
+                </MAP_URL>
+                <MAX_AANTAL>
+                    0006
+                </MAX_AANTAL>
+                <PARTNERS>
+                    <item>
+                        <PARTNERID>
+                            200053509
+                        </PARTNERID>
+                        <PARTNER>
+                            Professor Kurt Claeys
+                        </PARTNER>
+                        <PARTNERFCT>
+                            Docent
+                        </PARTNERFCT>
+                    </item>
+                    <item>
+                        <PARTNERID>
+                            0200000059
+                        </PARTNERID>
+                        <PARTNER>
+                            KU Leuven
+                        </PARTNER>
+                        <PARTNERFCT>
+                            Instelling
+                        </PARTNERFCT>
+                    </item>
+                    <item>
+                        <PARTNERID>
+                            200413766
+                        </PARTNERID>
+                        <PARTNER>
+                            Mevrouw Kaatje Rutten
+                        </PARTNER>
+                        <PARTNERFCT>
+                            Verantwoordelijke medewerker
+                        </PARTNERFCT>
+                    </item>
+                </PARTNERS>
+                <STUDIEINTERESSE>
+                    <item>
+                        <OPLEIDING_ID>
+                            51917052
+                        </OPLEIDING_ID>
+                        <OPLEIDING_OMSCH>
+                            Bachelor in de revalidatiewetenschappen en de kinesitherapie (Brugge)
+                        </OPLEIDING_OMSCH>
+                    </item>
+                </STUDIEINTERESSE>
+                <DOORLOPEND>
+                    N
+                </DOORLOPEND>
+                <PUBLICEREN>
+                    J
+                </PUBLICEREN>
+            </item>
+            <item>
+                <SESSIE_ID>
+                    C-00049018
+                </SESSIE_ID>
+                <SESSIE_OMSCH>
+                    Groei en ontwikkeling
+                </SESSIE_OMSCH>
+                <SESSIE_TYPE>
+                    ZSR5
+                </SESSIE_TYPE>
+                <CATEGORIE>
+                    ZBOPL
+                </CATEGORIE>
+                <DATUM_VAN>
+                    2025-03-03
+                </DATUM_VAN>
+                <DATUM_TOT>
+                    2025-03-03
+                </DATUM_TOT>
+                <TIJD_VAN>
+                    15:45:00
+                </TIJD_VAN>
+                <TIJD_TOT>
+                    17:45:00
+                </TIJD_TOT>
+                <SESSIEREEKS>
+                    1
+                </SESSIEREEKS>
+                <EXT_NOTITIE>
+                    In dit college wordt de groei en ontwikkeling van kinderen besproken, zoals de veranderingen in
+                    bot-, spier- en vetweefsel. Ook de motorische ontwikkeling komt aan bod. &apos;Groei en ontwikkeling&apos;
+                    is een vak uit de eerste bachelor Revalidatiewetenschappen en Kinesitherapie.
+                </EXT_NOTITIE>
+                <LOKAAL>
+                    Spoorwegstraat 12, 8200 Sint-Michiels (03.01 - aula)
+                </LOKAAL>
+                <MAP_URL>
+                    https://www.google.be/maps/place/KU+Leuven+Campus+Brugge/@51.1937043,3.2156545,17z/data=!3m1!4b1!4m6!3m5!1s0x47c35104b141e8cb:0xcded5a4988f83cd5!8m2!3d51.1937043!4d3.2182294!16s%2Fg%2F1yxkhpfgc?entry=ttu&amp;g_ep=EgoyMDI1MDIwNC4wIKXMDSoASAFQAw%3D%3D
+                </MAP_URL>
+                <MAX_AANTAL>
+                    0030
+                </MAX_AANTAL>
+                <PARTNERS>
+                    <item>
+                        <PARTNERID>
+                            200320415
+                        </PARTNERID>
+                        <PARTNER>
+                            Prof. dr. Elegast Monbaliu
+                        </PARTNER>
+                        <PARTNERFCT>
+                            Docent
+                        </PARTNERFCT>
+                    </item>
+                    <item>
+                        <PARTNERID>
+                            0200000059
+                        </PARTNERID>
+                        <PARTNER>
+                            KU Leuven
+                        </PARTNER>
+                        <PARTNERFCT>
+                            Instelling
+                        </PARTNERFCT>
+                    </item>
+                    <item>
+                        <PARTNERID>
+                            200413766
+                        </PARTNERID>
+                        <PARTNER>
+                            Mevrouw Kaatje Rutten
+                        </PARTNER>
+                        <PARTNERFCT>
+                            Verantwoordelijke medewerker
+                        </PARTNERFCT>
+                    </item>
+                </PARTNERS>
+                <STUDIEINTERESSE>
+                    <item>
+                        <OPLEIDING_ID>
+                            51917052
+                        </OPLEIDING_ID>
+                        <OPLEIDING_OMSCH>
+                            Bachelor in de revalidatiewetenschappen en de kinesitherapie (Brugge)
+                        </OPLEIDING_OMSCH>
+                    </item>
+                </STUDIEINTERESSE>
+                <DOORLOPEND>
+                    N
+                </DOORLOPEND>
+                <PUBLICEREN>
+                    J
+                </PUBLICEREN>
+            </item>
+            <item>
+                <SESSIE_ID>
+                    C-00049019
+                </SESSIE_ID>
+                <SESSIE_OMSCH>
+                    Kinesitherapeutisch handelen 2: introductie behandelingstechnieken: praktijk
+                </SESSIE_OMSCH>
+                <SESSIE_TYPE>
+                    ZSR5
+                </SESSIE_TYPE>
+                <CATEGORIE>
+                    ZBOPL
+                </CATEGORIE>
+                <DATUM_VAN>
+                    2025-03-04
+                </DATUM_VAN>
+                <DATUM_TOT>
+                    2025-03-04
+                </DATUM_TOT>
+                <TIJD_VAN>
+                    08:15:00
+                </TIJD_VAN>
+                <TIJD_TOT>
+                    10:15:00
+                </TIJD_TOT>
+                <SESSIEREEKS>
+                    1
+                </SESSIEREEKS>
+                <EXT_NOTITIE>
+                    Tijdens de lessen van kinesitherapeutisch handelen gaan we aan het werk zoals later in de praktijk:
+                    hands-on! We bestuderen verschillende therapeutische technieken en leren deze toepassen op het
+                    menselijk lichaam. &apos;Kinesitherapeutisch handelen 2: introductie behandelingstechnieken:
+                    praktijk&apos; is een vak uit de eerste bachelor Revalidatiewetenschappen en Kinesitherapie.
+                </EXT_NOTITIE>
+                <LOKAAL>
+                    Spoorwegstraat 12, 8200 Sint-Michiels (04.70 - praktijklokaal kiné)
+                </LOKAAL>
+                <MAP_URL>
+                    https://www.google.be/maps/place/KU+Leuven+Campus+Brugge/@51.1937043,3.2156545,17z/data=!3m1!4b1!4m6!3m5!1s0x47c35104b141e8cb:0xcded5a4988f83cd5!8m2!3d51.1937043!4d3.2182294!16s%2Fg%2F1yxkhpfgc?entry=ttu&amp;g_ep=EgoyMDI1MDIwNC4wIKXMDSoASAFQAw%3D%3D
+                </MAP_URL>
+                <MAX_AANTAL>
+                    0004
+                </MAX_AANTAL>
+                <PARTNERS>
+                    <item>
+                        <PARTNERID>
+                            200674217
+                        </PARTNERID>
+                        <PARTNER>
+                            De heer Bram Verschelde
+                        </PARTNER>
+                        <PARTNERFCT>
+                            Docent
+                        </PARTNERFCT>
+                    </item>
+                    <item>
+                        <PARTNERID>
+                            0200000059
+                        </PARTNERID>
+                        <PARTNER>
+                            KU Leuven
+                        </PARTNER>
+                        <PARTNERFCT>
+                            Instelling
+                        </PARTNERFCT>
+                    </item>
+                    <item>
+                        <PARTNERID>
+                            200413766
+                        </PARTNERID>
+                        <PARTNER>
+                            Mevrouw Kaatje Rutten
+                        </PARTNER>
+                        <PARTNERFCT>
+                            Verantwoordelijke medewerker
+                        </PARTNERFCT>
+                    </item>
+                </PARTNERS>
+                <STUDIEINTERESSE>
+                    <item>
+                        <OPLEIDING_ID>
+                            51917052
+                        </OPLEIDING_ID>
+                        <OPLEIDING_OMSCH>
+                            Bachelor in de revalidatiewetenschappen en de kinesitherapie (Brugge)
+                        </OPLEIDING_OMSCH>
+                    </item>
+                </STUDIEINTERESSE>
+                <DOORLOPEND>
+                    N
+                </DOORLOPEND>
+                <PUBLICEREN>
+                    J
+                </PUBLICEREN>
+            </item>
+            <item>
+                <SESSIE_ID>
+                    C-00049020
+                </SESSIE_ID>
+                <SESSIE_OMSCH>
+                    Kinesitherapeutisch handelen 2: introductie behandelingstechnieken: praktijk
+                </SESSIE_OMSCH>
+                <SESSIE_TYPE>
+                    ZSR5
+                </SESSIE_TYPE>
+                <CATEGORIE>
+                    ZBOPL
+                </CATEGORIE>
+                <DATUM_VAN>
+                    2025-03-04
+                </DATUM_VAN>
+                <DATUM_TOT>
+                    2025-03-04
+                </DATUM_TOT>
+                <TIJD_VAN>
+                    10:30:00
+                </TIJD_VAN>
+                <TIJD_TOT>
+                    12:30:00
+                </TIJD_TOT>
+                <SESSIEREEKS>
+                    1
+                </SESSIEREEKS>
+                <EXT_NOTITIE>
+                    Tijdens de lessen van kinesitherapeutisch handelen gaan we aan het werk zoals later in de praktijk:
+                    hands-on! We bestuderen verschillende therapeutische technieken en leren deze toepassen op het
+                    menselijk lichaam. &apos;Kinesitherapeutisch handelen 2: introductie behandelingstechnieken:
+                    praktijk&apos; is een vak uit de eerste bachelor Revalidatiewetenschappen en Kinesitherapie.
+                </EXT_NOTITIE>
+                <LOKAAL>
+                    Spoorwegstraat 12, 8200 Sint-Michiels (04.70 - praktijklokaal kiné)
+                </LOKAAL>
+                <MAP_URL>
+                    https://www.google.be/maps/place/KU+Leuven+Campus+Brugge/@51.1937043,3.2156545,17z/data=!3m1!4b1!4m6!3m5!1s0x47c35104b141e8cb:0xcded5a4988f83cd5!8m2!3d51.1937043!4d3.2182294!16s%2Fg%2F1yxkhpfgc?entry=ttu&amp;g_ep=EgoyMDI1MDIwNC4wIKXMDSoASAFQAw%3D%3D
+                </MAP_URL>
+                <MAX_AANTAL>
+                    0004
+                </MAX_AANTAL>
+                <PARTNERS>
+                    <item>
+                        <PARTNERID>
+                            200674217
+                        </PARTNERID>
+                        <PARTNER>
+                            De heer Bram Verschelde
+                        </PARTNER>
+                        <PARTNERFCT>
+                            Docent
+                        </PARTNERFCT>
+                    </item>
+                    <item>
+                        <PARTNERID>
+                            0200000059
+                        </PARTNERID>
+                        <PARTNER>
+                            KU Leuven
+                        </PARTNER>
+                        <PARTNERFCT>
+                            Instelling
+                        </PARTNERFCT>
+                    </item>
+                    <item>
+                        <PARTNERID>
+                            200413766
+                        </PARTNERID>
+                        <PARTNER>
+                            Mevrouw Kaatje Rutten
+                        </PARTNER>
+                        <PARTNERFCT>
+                            Verantwoordelijke medewerker
+                        </PARTNERFCT>
+                    </item>
+                </PARTNERS>
+                <STUDIEINTERESSE>
+                    <item>
+                        <OPLEIDING_ID>
+                            51917052
+                        </OPLEIDING_ID>
+                        <OPLEIDING_OMSCH>
+                            Bachelor in de revalidatiewetenschappen en de kinesitherapie (Brugge)
+                        </OPLEIDING_OMSCH>
+                    </item>
+                </STUDIEINTERESSE>
+                <DOORLOPEND>
+                    N
+                </DOORLOPEND>
+                <PUBLICEREN>
+                    J
+                </PUBLICEREN>
+            </item>
+            <item>
+                <SESSIE_ID>
+                    C-00049021
+                </SESSIE_ID>
+                <SESSIE_OMSCH>
+                    Moleculaire celbiologie, deel 2
+                </SESSIE_OMSCH>
+                <SESSIE_TYPE>
+                    ZSR5
+                </SESSIE_TYPE>
+                <CATEGORIE>
+                    ZBOPL
+                </CATEGORIE>
+                <DATUM_VAN>
+                    2025-03-04
+                </DATUM_VAN>
+                <DATUM_TOT>
+                    2025-03-04
+                </DATUM_TOT>
+                <TIJD_VAN>
+                    13:30:00
+                </TIJD_VAN>
+                <TIJD_TOT>
+                    15:30:00
+                </TIJD_TOT>
+                <SESSIEREEKS>
+                    1
+                </SESSIEREEKS>
+                <EXT_NOTITIE>
+                    De moleculaire celbiologie beschrijft de fundamentele werkingsmechanismen van een levende cel aan de
+                    hand van biochemische, biologische, fysiologische en fysische processen. &apos;Moleculaire
+                    celbiologie, deel 2&apos; is een vak uit de eerste bachelor Revalidatiewetenschappen en
+                    Kinesitherapie.
+                </EXT_NOTITIE>
+                <LOKAAL>
+                    Spoorwegstraat 12, 8200 Sint-Michiels (03.01 - aula)
+                </LOKAAL>
+                <MAP_URL>
+                    https://www.google.be/maps/place/KU+Leuven+Campus+Brugge/@51.1937043,3.2156545,17z/data=!3m1!4b1!4m6!3m5!1s0x47c35104b141e8cb:0xcded5a4988f83cd5!8m2!3d51.1937043!4d3.2182294!16s%2Fg%2F1yxkhpfgc?entry=ttu&amp;g_ep=EgoyMDI1MDIwNC4wIKXMDSoASAFQAw%3D%3D
+                </MAP_URL>
+                <MAX_AANTAL>
+                    0030
+                </MAX_AANTAL>
+                <PARTNERS>
+                    <item>
+                        <PARTNERID>
+                            200508233
+                        </PARTNERID>
+                        <PARTNER>
+                            Professor Irmgard Poelaert
+                        </PARTNER>
+                        <PARTNERFCT>
+                            Docent
+                        </PARTNERFCT>
+                    </item>
+                    <item>
+                        <PARTNERID>
+                            0200000059
+                        </PARTNERID>
+                        <PARTNER>
+                            KU Leuven
+                        </PARTNER>
+                        <PARTNERFCT>
+                            Instelling
+                        </PARTNERFCT>
+                    </item>
+                    <item>
+                        <PARTNERID>
+                            200413766
+                        </PARTNERID>
+                        <PARTNER>
+                            Mevrouw Kaatje Rutten
+                        </PARTNER>
+                        <PARTNERFCT>
+                            Verantwoordelijke medewerker
+                        </PARTNERFCT>
+                    </item>
+                </PARTNERS>
+                <STUDIEINTERESSE>
+                    <item>
+                        <OPLEIDING_ID>
+                            51917052
+                        </OPLEIDING_ID>
+                        <OPLEIDING_OMSCH>
+                            Bachelor in de revalidatiewetenschappen en de kinesitherapie (Brugge)
+                        </OPLEIDING_OMSCH>
+                    </item>
+                </STUDIEINTERESSE>
+                <DOORLOPEND>
+                    N
+                </DOORLOPEND>
+                <PUBLICEREN>
+                    J
+                </PUBLICEREN>
+            </item>
+            <item>
+                <SESSIE_ID>
+                    C-00049022
+                </SESSIE_ID>
+                <SESSIE_OMSCH>
+                    Functionele anatomie: centrale as en perifere zenuwen
+                </SESSIE_OMSCH>
+                <SESSIE_TYPE>
+                    ZSR5
+                </SESSIE_TYPE>
+                <CATEGORIE>
+                    ZBOPL
+                </CATEGORIE>
+                <DATUM_VAN>
+                    2025-03-05
+                </DATUM_VAN>
+                <DATUM_TOT>
+                    2025-03-05
+                </DATUM_TOT>
+                <TIJD_VAN>
+                    08:15:00
+                </TIJD_VAN>
+                <TIJD_TOT>
+                    10:15:00
+                </TIJD_TOT>
+                <SESSIEREEKS>
+                    1
+                </SESSIEREEKS>
+                <EXT_NOTITIE>
+                    Dit college behandelt de bouw en functie van het perifere zenuwstelsel. &apos;Functionele anatomie:
+                    centrale as en perifere zenuwen&apos; is een vak uit de eerste bachelor Revalidatiewetenschappen en
+                    Kinesitherapie.
+                </EXT_NOTITIE>
+                <LOKAAL>
+                    Spoorwegstraat 12, 8200 Sint-Michiels (03.01 - aula)
+                </LOKAAL>
+                <MAP_URL>
+                    https://www.google.be/maps/place/KU+Leuven+Campus+Brugge/@51.1937043,3.2156545,17z/data=!3m1!4b1!4m6!3m5!1s0x47c35104b141e8cb:0xcded5a4988f83cd5!8m2!3d51.1937043!4d3.2182294!16s%2Fg%2F1yxkhpfgc?entry=ttu&amp;g_ep=EgoyMDI1MDIwNC4wIKXMDSoASAFQAw%3D%3D
+                </MAP_URL>
+                <MAX_AANTAL>
+                    0020
+                </MAX_AANTAL>
+                <PARTNERS>
+                    <item>
+                        <PARTNERID>
+                            200395827
+                        </PARTNERID>
+                        <PARTNER>
+                            Prof. dr. Evie Vereecke
+                        </PARTNER>
+                        <PARTNERFCT>
+                            Docent
+                        </PARTNERFCT>
+                    </item>
+                    <item>
+                        <PARTNERID>
+                            0200000059
+                        </PARTNERID>
+                        <PARTNER>
+                            KU Leuven
+                        </PARTNER>
+                        <PARTNERFCT>
+                            Instelling
+                        </PARTNERFCT>
+                    </item>
+                    <item>
+                        <PARTNERID>
+                            200413766
+                        </PARTNERID>
+                        <PARTNER>
+                            Mevrouw Kaatje Rutten
+                        </PARTNER>
+                        <PARTNERFCT>
+                            Verantwoordelijke medewerker
+                        </PARTNERFCT>
+                    </item>
+                </PARTNERS>
+                <STUDIEINTERESSE>
+                    <item>
+                        <OPLEIDING_ID>
+                            51917052
+                        </OPLEIDING_ID>
+                        <OPLEIDING_OMSCH>
+                            Bachelor in de revalidatiewetenschappen en de kinesitherapie (Brugge)
+                        </OPLEIDING_OMSCH>
+                    </item>
+                </STUDIEINTERESSE>
+                <DOORLOPEND>
+                    N
+                </DOORLOPEND>
+                <PUBLICEREN>
+                    J
+                </PUBLICEREN>
+            </item>
+            <item>
+                <SESSIE_ID>
+                    C-00049023
+                </SESSIE_ID>
+                <SESSIE_OMSCH>
+                    Kinesitherapeutisch handelen 2: introductie behandelingstechnieken: praktijk
+                </SESSIE_OMSCH>
+                <SESSIE_TYPE>
+                    ZSR5
+                </SESSIE_TYPE>
+                <CATEGORIE>
+                    ZBOPL
+                </CATEGORIE>
+                <DATUM_VAN>
+                    2025-03-06
+                </DATUM_VAN>
+                <DATUM_TOT>
+                    2025-03-06
+                </DATUM_TOT>
+                <TIJD_VAN>
+                    09:30:00
+                </TIJD_VAN>
+                <TIJD_TOT>
+                    11:30:00
+                </TIJD_TOT>
+                <SESSIEREEKS>
+                    1
+                </SESSIEREEKS>
+                <EXT_NOTITIE>
+                    Tijdens de lessen van kinesitherapeutisch handelen gaan we aan het werk zoals later in de praktijk:
+                    hands-on! We bestuderen verschillende therapeutische technieken en leren deze toepassen op het
+                    menselijk lichaam. &apos;Kinesitherapeutisch handelen 2: introductie behandelingstechnieken:
+                    praktijk&apos; is een vak uit de eerste bachelor Revalidatiewetenschappen en Kinesitherapie.
+                </EXT_NOTITIE>
+                <LOKAAL>
+                    Spoorwegstraat 12, 8200 Sint-Michiels (04.70 - praktijklokaal kiné)
+                </LOKAAL>
+                <MAP_URL>
+                    https://www.google.be/maps/place/KU+Leuven+Campus+Brugge/@51.1937043,3.2156545,17z/data=!3m1!4b1!4m6!3m5!1s0x47c35104b141e8cb:0xcded5a4988f83cd5!8m2!3d51.1937043!4d3.2182294!16s%2Fg%2F1yxkhpfgc?entry=ttu&amp;g_ep=EgoyMDI1MDIwNC4wIKXMDSoASAFQAw%3D%3D
+                </MAP_URL>
+                <MAX_AANTAL>
+                    0004
+                </MAX_AANTAL>
+                <PARTNERS>
+                    <item>
+                        <PARTNERID>
+                            200674217
+                        </PARTNERID>
+                        <PARTNER>
+                            De heer Bram Verschelde
+                        </PARTNER>
+                        <PARTNERFCT>
+                            Docent
+                        </PARTNERFCT>
+                    </item>
+                    <item>
+                        <PARTNERID>
+                            0200000059
+                        </PARTNERID>
+                        <PARTNER>
+                            KU Leuven
+                        </PARTNER>
+                        <PARTNERFCT>
+                            Instelling
+                        </PARTNERFCT>
+                    </item>
+                    <item>
+                        <PARTNERID>
+                            200413766
+                        </PARTNERID>
+                        <PARTNER>
+                            Mevrouw Kaatje Rutten
+                        </PARTNER>
+                        <PARTNERFCT>
+                            Verantwoordelijke medewerker
+                        </PARTNERFCT>
+                    </item>
+                </PARTNERS>
+                <STUDIEINTERESSE>
+                    <item>
+                        <OPLEIDING_ID>
+                            51917052
+                        </OPLEIDING_ID>
+                        <OPLEIDING_OMSCH>
+                            Bachelor in de revalidatiewetenschappen en de kinesitherapie (Brugge)
+                        </OPLEIDING_OMSCH>
+                    </item>
+                </STUDIEINTERESSE>
+                <DOORLOPEND>
+                    N
+                </DOORLOPEND>
+                <PUBLICEREN>
+                    J
+                </PUBLICEREN>
+            </item>
+        </SESSIES>
+    </item>
+</CRM_EXPORT>
