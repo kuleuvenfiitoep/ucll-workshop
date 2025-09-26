@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<bestand>
+    <inschrijving>
+        <student>
+            <volgnummer></volgnummer>
+            <token></token>
+            <naam></naam>
+            <voornaam></voornaam>
+            <geboortedatum></geboortedatum>
+            <generatiejaar></generatiejaar>
+            <straatnaam></straatnaam>
+            <nummer></nummer>
+            <bus></bus>
+            <land></land>
+            <postcode></postcode>
+            <plaats></plaats>
+            <email></email>
+            <landcode></landcode>
+            <optin></optin>
+            <correspondentie_taal></correspondentie_taal>
+        </student>
+        <event>
+            <!-- multiple sessie possible -->
+            <sessie>
+                <sessieid></sessieid>
+                <aantalpersonen></aantalpersonen>
+            </sessie>
+        </event>
+    </inschrijving>
+</bestand>
